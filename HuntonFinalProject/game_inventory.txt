@@ -1,0 +1,17 @@
+3,2,Spider-Man: Miles Morales
+3,2,Assassin's Creed:Valhalla
+3,3,Assassin's Creed:Valhalla
+2,2,Call of Duty: Black Ops - Cold War
+2,3,Call of Duty: Black Ops - Cold War
+1,1,Hyrule Warriors: Age of Calamity
+2,2,Ghost of Tsushima
+4,2,Marvel's Avengers
+2,3,Marvel's Avengers
+2,2,Mafia
+2,1,Luigi's Mansion
+2,3,WatchDogs: Legion
+2,1,Zelda: Link's Awakening
+1,2,Chronos: Before the Ashes
+2,1,Donkey Kong Country: Tropical Freeze
+3,2,Star Wars: Jedi Fallen Order
+2,3,Star Wars: Jedi Fallen Order
